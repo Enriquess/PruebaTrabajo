@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 Escribo Juancarlos, escribo enrique, escribo Carlos
 Hola
-=======
-<<<<<<< HEAD
-Escribo Juancarlos, escribo enrique, escribo Carlos,escribo enrique
->>>>>>> d057c16ad16cad5977cab6f05e87e64f3390354b
 
-=======
->>>>>>> 13a003256746949c7d4c25c23e0a9f22f9afa2b0
+Escribo Juancarlos, escribo enrique, escribo Carlos,escribo enrique
+
+Ahora si
