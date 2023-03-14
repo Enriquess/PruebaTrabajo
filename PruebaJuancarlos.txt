@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Escribo Juancarlos, escribo enrique, escribo Carlos,escribo enrique
 
+=======
+>>>>>>> 13a003256746949c7d4c25c23e0a9f22f9afa2b0
